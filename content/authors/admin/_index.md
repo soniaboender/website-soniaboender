@@ -22,19 +22,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 education:
-courses:
-- course: PhD in Global Health
-  institution: Amsterdam Institute for Global Health and Development - University of Amsterdam
-  year: 2016
-- course: PGCert in International Public Health
-  institution: Liverpool School of Tropical Medicine
-  year: 2012
-- course: MSc in Health Sciences - Public Health & Infectious Diseases
-  institution: VU University Amsterdam
-  year: 2011
-- course: BSc in Health Sciences 
-  institution: VU University Amsterdam
-  year: 2010
+ courses:
+  - course: PhD in Global Health
+    institution: Amsterdam Institute for Global Health and Development - University of Amsterdam
+    year: 2016
+ - course: PGCert in International Public Health
+   institution: Liverpool School of Tropical Medicine
+   year: 2012
+ - course: MSc in Health Sciences - Public Health & Infectious Diseases
+   institution: VU University Amsterdam
+   year: 2011
+ - course: BSc in Health Sciences 
+   institution: VU University Amsterdam
+   year: 2010
 interests:
 - Infectious disease epidemiology
 - Monitoring and surveillance
