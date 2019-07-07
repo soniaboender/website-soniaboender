@@ -35,7 +35,7 @@ education:
  - course: PhD in Global Health
    institution: Amsterdam Institute for Global Health and Development - University of Amsterdam
    year: 2016
- - course: PGCert in International Public Health (_graduated with distinction_)
+ - course: PGCert in International Public Health (graduated with distinction)
    institution: Liverpool School of Tropical Medicine
    year: 2012
  - course: MSc in Health Sciences - Public Health & Infectious Diseases
