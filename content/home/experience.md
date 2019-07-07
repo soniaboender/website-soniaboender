@@ -63,7 +63,7 @@ Participant of the Drug Resistance Working Group.
   company_url = "https://www.aighd.org/"
   location = "Amsterdanm, the Netherlands"
   date_start = "2013-02-14"
-  date_end = "2015-01-31"
+  date_end = "2016-01-31"
   description = """Monitoring HIV drug resistance in adults and children in sub-Saharan Africa. 
 
 Project manager of the [PASER (PharmAccess/Pan African Studies to Evaluate Resistance)](https://www.aighd.org/project/paser/) and [MARCH (Monitoring Antiretroviral Resistance in Children)](https://www.aighd.org/project/march/) cohort studies. 
@@ -76,7 +76,7 @@ Expert consultant for [WHO HIVResNet](https://www.who.int/hiv/topics/drugresista
   company = "VU University Amsterdam"
   company_url = "https://science.vu.nl/en/research/health-sciences/index.aspx"
   location = "Amsterdanm, the Netherlands"
-  date_start = "2012-01-04"
+  date_start = "2012-04-01"
   date_end = "2013-02-13"
   description = """
   Lecturer at the Section Infectious Diseases (Apr 2012 – Mar 2013) and the Section Methodology and Applied Biostatistics (Sep 2012 – Feb 2013).
