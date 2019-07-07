@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Epidemiologist & Research Associate"
+  company = "Robert Koch Institute"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Berlin, Germany"
+  date_start = "2019-09-11"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Based at the Department of Infectious Disease Epidemiology - Surveillance Unit. 
+
+EU-track fellow of the European Programme for Intervention Epidemiology Training (EPIET) by the European Centre for Disease Prevention and Control (ECDC).
+#  Responsibilities include:
+#  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "EPIET Fellow"
+  company = "European Centre for Disease Prevention and Control"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#  location = ""
+  date_start = "2019-09-11"
+  date_end = ""
+  description = """EU-track fellow of the European Programme for Intervention Epidemiology Training (EPIET). 
+
+Based at the German National Public Health Institute: the Robert Koch Institute.
+"""
 
 +++
