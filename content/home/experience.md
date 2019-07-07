@@ -47,7 +47,7 @@ Based at the German National Public Health Institute: the Robert Koch Institute.
   company_url = "https://www.hiv-monitoring.nl/en"
   location = "Amsterdanm, the Netherlands"
   date_start = "2016-02-01"
-  date_end = "2018-06-31"
+  date_end = "2018-06-30"
   description = """National surveillance and monitoring of HIV at the [Dutch HIV Monitoring Foundation, on behalf of the [ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort](https://bmjopen.bmj.com/content/8/9/e022516).
 
 - [International Cohort Consortium of Infectious Diseases (RESPOND)](https://chip.dk/Studies/RESPOND/About) 
