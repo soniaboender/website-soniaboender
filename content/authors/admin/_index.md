@@ -16,7 +16,7 @@ role: Epidemiologist & Public Health Researcher (ECDC EPIET Fellow)
 organizations:
 - name: Robert Koch Institute
   url: "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Epidemiology_Training_Programme.html"
-- name: European Centre for Disease Prevention and Control (ECDC)
+- name: European Centre for Disease Prevention and Control
   url: "https://ecdc.europa.eu/en/epiet-euphem"
 
 # Short bio (displayed in user profile at end of posts)

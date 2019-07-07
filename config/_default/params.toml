@@ -64,7 +64,7 @@ address = "Robert Koch Institute, Department 3 - Infectious Disease Epidemiology
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twittwe", link = "https://twitter.com/SoniaBoender"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/SoniaBoender"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:sonia.boender?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
