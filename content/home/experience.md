@@ -43,12 +43,12 @@ Based at the German National Public Health Institute: the Robert Koch Institute.
 
 [[experience]]
   title = "Epidemiologist & Postdoctoral Researcher"
-  company = "Stichting HIV Monitoring"
+  company = "[Stichting HIV Monitoring](https://www.hiv-monitoring.nl/en)"
   company_url = ""
 #  location = ""
-  date_start = "2019-09-11"
-  date_end = ""
-  description = """National surveillance and monitoring of HIV, on behalf of the ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort.
+  date_start = "2016-02-01"
+  date_end = "2010-06-31"
+  description = """National surveillance and monitoring of HIV, on behalf of the [ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort](https://bmjopen.bmj.com/content/8/9/e022516).
 
 - [International Cohort Consortium of Infectious Diseases (RESPOND)](https://chip.dk/Studies/RESPOND/About) 
 Participant and member of the Scientific Interest Group ‘Outcomes with antiretroviral 
