@@ -20,8 +20,21 @@ organizations:
   url: "https://ecdc.europa.eu/en/epiet-euphem"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include infectious disease epidemiology and public health.
-
+bio: 
+education:
+  courses:
+  - course: PhD in Global Health
+    institution: Amsterdam Institute for Global Health and Development - University of Amsterdam
+    year: 2016
+  - course: PGCert in International Public Health
+    institution: Liverpool School of Tropical Medicine
+    year: 2012
+  - course: MSc in Health Sciences - Public Health & Infectious Diseases
+    institution: VU University Amsterdam
+    year: 2011
+  - course: BSc in Health Sciences 
+    institution: VU University Amsterdam
+    year: 2010
 interests:
 - Infectious disease epidemiology
 - Monitoring and surveillance
@@ -29,17 +42,6 @@ interests:
 - Observational cohort studies
 - Mixed-methods research
 - Science communication
-
-education:
-  courses:
-  - course: PhD in Global Health
-    institution: Amsterdam Institute for Global Health and Development - University of Amsterdam
-  - course: PGCert in International Public Health
-    institution: Liverpool School of Tropical Medicine
-  - course: MSc in Health Sciences - Public Health & Infectious Diseases
-    institution: VU University Amsterdam
-  - course: BSc in Health Sciences 
-    institution: VU University Amsterdam
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
