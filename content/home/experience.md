@@ -27,11 +27,6 @@ date_format = "Jan 2006"
   description = """Based at the Department of Infectious Disease Epidemiology - Surveillance Unit. 
 
 EU-track fellow of the European Programme for Intervention Epidemiology Training (EPIET) by the European Centre for Disease Prevention and Control (ECDC).
-#  Responsibilities include:
-#  
-#  * Analysing
-#  * Modelling
-#  * Deploying
 """
 
 [[experience]]
@@ -44,6 +39,22 @@ EU-track fellow of the European Programme for Intervention Epidemiology Training
   description = """EU-track fellow of the European Programme for Intervention Epidemiology Training (EPIET). 
 
 Based at the German National Public Health Institute: the Robert Koch Institute.
+"""
+
+[[experience]]
+  title = "Epidemiologist & Postdoctoral Researcher"
+  company = "Stichting HIV Monitoring"
+  company_url = ""
+#  location = ""
+  date_start = "2019-09-11"
+  date_end = ""
+  description = """National surveillance and monitoring of HIV, on behalf of the ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort.
+
+- [International Cohort Consortium of Infectious Diseases (RESPOND)](https://chip.dk/Studies/RESPOND/About) 
+Participant and member of the Scientific Interest Group ‘Outcomes with antiretroviral 
+drugs’.
+- [HIV-CAUSAL (HIV Cohorts Analyzed Using Structural Approaches to Longitudinal data)](https://www.hsph.harvard.edu/miguel-hernan/hiv-causal-collaboration/) 
+Participant of the Drug Resistance Working Group.
 """
 
 +++
