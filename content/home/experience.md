@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Epidemiologist & Research Associate"
   company = "Robert Koch Institute"
-  company_url = ""
+  company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/InfDiseaseEpidem_node.html"
   location = "Berlin, Germany"
   date_start = "2019-09-11"
   date_end = ""
@@ -32,7 +32,7 @@ EU-track fellow of the European Programme for Intervention Epidemiology Training
 [[experience]]
   title = "EPIET Fellow"
   company = "European Centre for Disease Prevention and Control"
-  company_url = ""
+  company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
 #  location = ""
   date_start = "2019-09-11"
   date_end = ""
@@ -43,18 +43,43 @@ Based at the German National Public Health Institute: the Robert Koch Institute.
 
 [[experience]]
   title = "Epidemiologist & Postdoctoral Researcher"
-  company = "[Stichting HIV Monitoring](https://www.hiv-monitoring.nl/en)"
-  company_url = ""
-#  location = ""
+  company = "Stichting HIV Monitoring"
+  company_url = "https://www.hiv-monitoring.nl/en"
+  location = "Amsterdanm, the Netherlands"
   date_start = "2016-02-01"
-  date_end = "2010-06-31"
-  description = """National surveillance and monitoring of HIV, on behalf of the [ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort](https://bmjopen.bmj.com/content/8/9/e022516).
+  date_end = "2018-06-31"
+  description = """National surveillance and monitoring of HIV at the [Dutch HIV Monitoring Foundation, on behalf of the [ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort](https://bmjopen.bmj.com/content/8/9/e022516).
 
 - [International Cohort Consortium of Infectious Diseases (RESPOND)](https://chip.dk/Studies/RESPOND/About) 
 Participant and member of the Scientific Interest Group ‘Outcomes with antiretroviral 
 drugs’.
 - [HIV-CAUSAL (HIV Cohorts Analyzed Using Structural Approaches to Longitudinal data)](https://www.hsph.harvard.edu/miguel-hernan/hiv-causal-collaboration/) 
 Participant of the Drug Resistance Working Group.
+"""
+
+[[experience]]
+  title = "PhD Fellow"
+  company = "Amsterdam Institute for Global Health and Development"
+  company_url = "https://www.aighd.org/"
+  location = "Amsterdanm, the Netherlands"
+  date_start = "2013-02-14"
+  date_end = "2015-01-31"
+  description = """Monitoring HIV drug resistance in adults and children in sub-Saharan Africa. 
+
+Project manager of the [PASER (PharmAccess/Pan African Studies to Evaluate Resistance)](https://www.aighd.org/project/paser/) and [MARCH (Monitoring Antiretroviral Resistance in Children)](https://www.aighd.org/project/march/) cohort studies. 
+
+Expert consultant for [WHO HIVResNet](https://www.who.int/hiv/topics/drugresistance/hivresnet/en/) - a global network advising the World Health Organisation on the control and surveillance of HIV drug resistance. 
+"""
+
+[[experience]]
+  title = "Lecturer - Department of Health Sciences"
+  company = "VU University Amsterdam"
+  company_url = "https://science.vu.nl/en/research/health-sciences/index.aspx"
+  location = "Amsterdanm, the Netherlands"
+  date_start = "2012-01-04"
+  date_end = "2013-02-13"
+  description = """
+  Lecturer at the Section Infectious Diseases (Apr 2012 – Mar 2013) and the Section Methodology and Applied Biostatistics (Sep 2012 – Feb 2013).
 """
 
 +++
