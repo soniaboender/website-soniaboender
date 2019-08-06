@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr Sonia Boender
+name: Dr. Sonia Boender
 
 # Username (this should match the folder name)
 authors:
@@ -24,10 +24,10 @@ bio:
 
 interests:
 - Infectious disease epidemiology
+- Observational (cohort) studies
+- Mixed-methods research
 - Monitoring and surveillance
 - HIV, hepatitis C
-- Observational cohort studies
-- Mixed-methods research
 - Science communication
 
 education:
