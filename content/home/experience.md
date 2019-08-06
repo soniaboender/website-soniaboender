@@ -75,7 +75,7 @@ Expert consultant for [WHO HIVResNet](https://www.who.int/hiv/topics/drugresista
   title = "Lecturer - Department of Health Sciences"
   company = "VU University Amsterdam"
   company_url = "https://science.vu.nl/en/research/health-sciences/index.aspx"
-  location = "Amsterdanm, the Netherlands"
+  location = "Amsterdam, the Netherlands"
   date_start = "2012-04-01"
   date_end = "2013-02-13"
   description = """
