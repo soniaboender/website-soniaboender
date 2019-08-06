@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Sonia Boender
+name: Dr. Sonia Boender, MSc PhD
 
 # Username (this should match the folder name)
 authors:
@@ -20,14 +20,14 @@ organizations:
   url: "https://ecdc.europa.eu/en/epiet-euphem"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include public health research and Infectious disease epidemiology. 
 
 interests:
-- Infectious disease epidemiology
-- Observational (cohort) studies
-- Mixed-methods research
 - Monitoring and surveillance
 - HIV, hepatitis C
+- Observational cohort studies
+- Health data science
+- Qualitative and mixed-methods research
 - Science communication
 
 education:
@@ -95,3 +95,4 @@ I am a Health Scientist with a masters in Public Heath and Infectious Diseases, 
 My experience ranges from designing and conducting research projects, to project and data management, to the subsequent communication of findings to different stakeholders: clinical, public health, policy, and the general public. I have extensive experience working with HIV cohort studies in sub-Sahara Africa, and in the Netherlands. I collaborate with academic and public institutions as a researcher, lecturer, and  student supervisor (BSc, MSc and PhD level).
 
 Since September 2018, I am a fellow of the European Programme for Intervention Epidemiology Training (EPIET) by the European Centre for Disease Prevention and Control (ECDC), for which I am based at the Robert Koch Institute in Berlin, Germany. 
+
