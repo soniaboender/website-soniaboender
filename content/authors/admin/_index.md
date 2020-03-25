@@ -24,6 +24,7 @@ bio: My research interests include public health research and Infectious disease
 
 interests:
 - Monitoring and surveillance
+- Outbreak invesigation
 - HIV, hepatitis C
 - Observational cohort studies
 - Health data science
@@ -90,7 +91,7 @@ email: ""
 #- Visitors
 ---
 
-I am a Health Scientist with a masters in Public Heath and Infectious Diseases, a postgraduate certificate in International Public Health, and a PhD in Global Health. I am a registered Epidemiologist ('Epidemioloog B', [VVE](https://epidemiologie.nl/registration/registration-epidemiologist-a-or-b.html)/[SMBWO](https://smbwo.nl/erkenningen-per-richting/?rubriek=Epidemiologie)).
+Hi, I am a Health Scientist with a masters in Public Heath and Infectious Diseases, a postgraduate certificate in International Public Health, and a PhD in Global Health. I am a registered Epidemiologist ('Epidemioloog B', [VVE](https://epidemiologie.nl/registration/registration-epidemiologist-a-or-b.html)/[SMBWO](https://smbwo.nl/erkenningen-per-richting/?rubriek=Epidemiologie)), and field epidemiologist in training.
 
 My experience ranges from designing and conducting research projects, to project and data management, to the subsequent communication of findings to different stakeholders: clinical, public health, policy, and the general public. I have extensive experience working with HIV cohort studies in sub-Sahara Africa, and in the Netherlands. I collaborate with academic and public institutions as a researcher, lecturer, and  student supervisor (BSc, MSc and PhD level).
 
