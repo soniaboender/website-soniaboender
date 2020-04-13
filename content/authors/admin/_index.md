@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Sonia Boender, MSc PhD
+name: Dr. Sonia Boender
 
 # Username (this should match the folder name)
 authors:
@@ -35,7 +35,7 @@ education:
  courses:
  - course: MSc in Applied Epidemiology
    institution: Charité - Universtätsmedizin & Berlin School of Public Health
-   year: 2020 (expected)
+   year: 2021 (expected)
  - course: PhD in Global Health
    institution: Amsterdam Institute for Global Health and Development - University of Amsterdam
    year: 2016
