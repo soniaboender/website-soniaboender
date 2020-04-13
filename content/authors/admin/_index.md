@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Epidemiologist & Public Health Researcher (ECDC EPIET Fellow) 
+role: Epidemiologist & Public Health Researcher (EPIET Fellow) 
 
 # Organizations/Affiliations
 organizations:
@@ -90,7 +90,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-
 Health Scientist with a masters in Public Health and Infectious Diseases, a postgraduate certificate in International Public Health, and a PhD in Global Health. I am a registered Epidemiologist ('Epidemioloog B', [VVE](https://epidemiologie.nl/registration/registration-epidemiologist-a-or-b.html)/[SMBWO](https://smbwo.nl/erkenningen-per-richting/?rubriek=Epidemiologie)), and field epidemiologist in training.
 
 I get excited about interdisciplinary collaboration, large datasets, and communication - all serving public health. My work experience ranges from designing and conducting research projects, to project and data management, to the subsequent communication of findings to different stakeholders: clinical, public health, policy, and the general public. I collaboratie with academic and public institutions as a researcher, lecturer, and like to teach and supervis students (BSc, MSc and PhD level).
