@@ -21,22 +21,24 @@ date_format = "Jan 2006"
   title = "Epidemiologist & Research Associate"
   company = "Robert Koch Institute"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/InfDiseaseEpidem_node.html"
+  company = "European Centre for Disease Prevention and Control"
+  company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
   location = "Berlin, Germany"
   date_start = "2019-09-11"
   date_end = ""
-  description = """Based at the Department of Infectious Disease Epidemiology - Surveillance Unit. 
+  description = """Based at the Department of Infectious Disease Epidemiology. 
 
-EU-track fellow of the European Programme for Intervention Epidemiology Training (EPIET) by the European Centre for Disease Prevention and Control (ECDC).
+Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme: field epidemiology path (EPIET: European Programme for Intervention Epidemiology Training).
 """
 
 [[experience]]
-  title = "EPIET Fellow"
+  title = "Fellow"
   company = "European Centre for Disease Prevention and Control"
   company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
 #  location = ""
   date_start = "2019-09-11"
   date_end = ""
-  description = """EU-track fellow of the European Programme for Intervention Epidemiology Training (EPIET). 
+  description = """EU-track fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme: field epidemiology path (EPIET: European Programme for Intervention Epidemiology Training).
 
 Based at the German National Public Health Institute: the Robert Koch Institute.
 """
