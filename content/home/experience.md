@@ -21,8 +21,6 @@ date_format = "Jan 2006"
   title = "Epidemiologist & Research Associate"
   company = "Robert Koch Institute"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/InfDiseaseEpidem_node.html"
-  company = "European Centre for Disease Prevention and Control"
-  company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
   location = "Berlin, Germany"
   date_start = "2019-09-11"
   date_end = ""
@@ -32,15 +30,13 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
 """
 
 [[experience]]
-  title = "Fellow"
+  title = "Fellow - field epidemiology (EPIET)"
   company = "European Centre for Disease Prevention and Control"
   company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
 #  location = ""
   date_start = "2019-09-11"
   date_end = ""
   description = """EU-track fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme: field epidemiology path (EPIET: European Programme for Intervention Epidemiology Training).
-
-Based at the German National Public Health Institute: the Robert Koch Institute.
 """
 
 [[experience]]
@@ -51,12 +47,6 @@ Based at the German National Public Health Institute: the Robert Koch Institute.
   date_start = "2016-02-01"
   date_end = "2018-06-30"
   description = """National surveillance and monitoring of HIV at the Dutch HIV Monitoring Foundation, on behalf of the [ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort](https://bmjopen.bmj.com/content/8/9/e022516).
-
-- [International Cohort Consortium of Infectious Diseases (RESPOND)](https://chip.dk/Studies/RESPOND/About) 
-Participant and member of the Scientific Interest Group ‘Outcomes with antiretroviral 
-drugs’.
-- [HIV-CAUSAL (HIV Cohorts Analyzed Using Structural Approaches to Longitudinal data)](https://www.hsph.harvard.edu/miguel-hernan/hiv-causal-collaboration/) 
-Participant of the Drug Resistance Working Group.
 """
 
 [[experience]]
