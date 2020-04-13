@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Based at the Department of Infectious Disease Epidemiology. 
 
-Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme: field epidemiology path (EPIET: European Programme for Intervention Epidemiology Training).
+Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
 """
 
 [[experience]]
@@ -36,7 +36,9 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
 #  location = ""
   date_start = "2019-09-11"
   date_end = ""
-  description = """EU-track fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme: field epidemiology path (EPIET: European Programme for Intervention Epidemiology Training).
+  description = """EU-track fellow, field epidemiology path.
+  
+  EPIET: European Programme for Intervention Epidemiology Training.
 """
 
 [[experience]]
