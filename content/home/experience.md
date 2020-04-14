@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Robert Koch Institute"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/InfDiseaseEpidem_node.html"
   location = "Berlin, Germany"
-  date_start = "2019-09-11"
+  date_start = "2018-09-11"
   date_end = ""
   description = """Based at the Department of Infectious Disease Epidemiology. 
 
