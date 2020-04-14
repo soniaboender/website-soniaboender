@@ -24,17 +24,17 @@ date_format = "Jan 2006"
   location = "Berlin, Germany"
   date_start = "2018-09-11"
   date_end = ""
-  description = """Based at the Department of Infectious Disease Epidemiology. 
+  description = """Department of Infectious Disease Epidemiology. 
 
 Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
 """
 
 [[experience]]
-  title = "Fellow - field epidemiology (EPIET)"
+  title = "Fellow (EPIET)"
   company = "European Centre for Disease Prevention and Control"
   company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
 #  location = ""
-  date_start = "2019-09-11"
+  date_start = "2018-09-11"
   date_end = ""
   description = """EU-track fellow, field epidemiology path.
   
@@ -45,7 +45,7 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
   title = "Epidemiologist & Postdoctoral Researcher"
   company = "Stichting HIV Monitoring"
   company_url = "https://www.hiv-monitoring.nl/en"
-  location = "Amsterdanm, the Netherlands"
+  location = "Amsterdam, the Netherlands"
   date_start = "2016-02-01"
   date_end = "2018-06-30"
   description = """National surveillance and monitoring of HIV at the Dutch HIV Monitoring Foundation, on behalf of the [ATHENA (AIDS Therapy Evaluation in the Netherlands) national observational HIV cohort](https://bmjopen.bmj.com/content/8/9/e022516).
