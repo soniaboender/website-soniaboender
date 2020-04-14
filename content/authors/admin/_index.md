@@ -90,4 +90,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-The interplay between health and society facinates me, which brought me to health sciences and international public health. A large part of my work experience centred around HIV cohort studies in sub-Sahara Africa and the Netherlands. Subsequently, I have broaded my scope to other (viral) infectious diseases and outbreaks, including hepatitis C, measles, HPV, and SARS-CoV-2/COVID-19. Furthermore, I enjoy science communication, teaching and student supervision. 
+The interplay between health and society fascinates me, which brought me to health sciences and international public health. A large part of my work and research experience focussed HIV cohort studies in sub-Sahara Africa and the Netherlands. Subsequently, I have broadened my scope to other (viral) infectious diseases and outbreaks, including hepatitis C, measles, HPV, and SARS-CoV-2/COVID-19. Furthermore, I enjoy science communication, teaching and student supervision. 
