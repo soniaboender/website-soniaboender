@@ -90,7 +90,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-The interplay between health and society facinates me, which brought me to health sciences and (international) public health. I specialised in monitoring and surveillance of infectious diseases. A large part of my work experience centred around HIV cohort studies in sub-Sahara Africa and the Netherlands. Subsequently, I have broaded my scope to other (viral) infectious diseases and outbreaks, including hepatitis C, measles, and SARS-CoV-2/COVID-19. 
-
-I am a Health Scientist with a masters in Public Health and Infectious Diseases, a postgraduate certificate in International Public Health, and a PhD in Global Health. I am a registered Epidemiologist ('Epidemioloog B', [VVE](https://epidemiologie.nl/registration/registration-epidemiologist-a-or-b.html)/[SMBWO](https://smbwo.nl/erkenningen-per-richting/?rubriek=Epidemiologie)), and field epidemiologist in training. Furthermore, I enjoy science communication, teaching, and student supervision. 
-
+The interplay between health and society facinates me, which brought me to health sciences and international public health. A large part of my work experience centred around HIV cohort studies in sub-Sahara Africa and the Netherlands. Subsequently, I have broaded my scope to other (viral) infectious diseases and outbreaks, including hepatitis C, measles, HPV, and SARS-CoV-2/COVID-19. Furthermore, I enjoy science communication, teaching and student supervision. 
