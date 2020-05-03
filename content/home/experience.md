@@ -23,14 +23,14 @@ date_format = "Jan 2006"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/InfDiseaseEpidem_node.html"
   location = "Berlin, Germany"
   date_start = "2018-09-11"
-  date_end = ""
+  date_end = "2020-09-10"
   description = """Department of Infectious Disease Epidemiology. 
 
 Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
 """
 
 [[experience]]
-  title = "Fellow (EPIET)"
+  title = "EPIET Fellow"
   company = "European Centre for Disease Prevention and Control"
   company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
 #  location = ""
@@ -55,7 +55,7 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
   title = "PhD Fellow"
   company = "Amsterdam Institute for Global Health and Development"
   company_url = "https://www.aighd.org/"
-  location = "Amsterdanm, the Netherlands"
+  location = "Amsterdam, the Netherlands"
   date_start = "2013-02-14"
   date_end = "2016-01-31"
   description = """Monitoring HIV drug resistance in adults and children in sub-Saharan Africa. 
