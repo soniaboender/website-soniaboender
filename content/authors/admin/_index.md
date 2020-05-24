@@ -90,8 +90,8 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-The interplay between health and society fascinates me, which brought me to health sciences and international public health. Analysing (large) observational datasets makes my heart beat faster, as well as the epidemiological and methodological techniques to analyse them. Never without questioning the social, clinical and human context of these data points. 
+The interplay between health and society fascinates me, which brought me to health sciences and international public health. Analysing (large) observational datasets makes my heart beat faster, as well as studying the epidemiological techniques and research methodology itself. Never without questioning the social context and clinical relevance of these studies. 
 
-A large part of my work and research experience focussed on HIV cohort studies in sub-Saharan Africa and the Netherlands. Subsequently, I have broadened my scope to other (viral) infectious diseases and outbreaks, including hepatitis C, HPV, measles, and SARS-CoV-2/COVID-19. 
+A large part of my research experience focussed on HIV cohort studies in sub-Saharan Africa and the Netherlands. Subsequently, I have broadened my scope to other (viral) infectious diseases and outbreaks investigation, including hepatitis C, HPV, measles, and SARS-CoV-2/COVID-19. 
 
 Furthermore, I enjoy science communication, teaching and student supervision. 
