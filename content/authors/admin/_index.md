@@ -24,8 +24,8 @@ bio: My research interests include public health research and Infectious disease
 
 interests:
 - Monitoring and surveillance
-- Outbreak invesigation
-- HIV, hepatitis C
+- Outbreak investigation
+- HIV, hepatitis C, SARS-CoV-2/COVID-19
 - Observational cohort studies
 - Health data science
 - Qualitative and mixed-methods research

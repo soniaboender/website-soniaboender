@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/InfDiseaseEpidem_node.html"
   location = "Berlin, Germany"
   date_start = "2018-09-11"
-  date_end = "2020-09-10"
+  date_end = ""
   description = """Department of Infectious Disease Epidemiology. 
 
 Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
