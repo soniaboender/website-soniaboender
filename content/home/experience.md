@@ -24,10 +24,11 @@ date_format = "Jan 2006"
   location = "Berlin, Germany"
   date_start = "2020-09-11"
   date_end = ""
-  description = """Department of Infectious Disease Epidemiology. 
+  description = """
+  Department of Infectious Disease Epidemiology. 
 Project coordinator & epidemiologist: syndromic surveillance using emergency department data [ESEG](https://www.rki.de/EN/Content/infections/epidemiology/ESEG/ESEG_node.html) & routine health data in real-time [SUMO](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/sumo/sumo.html?nn=2387590).
-
 """
+
 [[experience]]
   title = "Field Epidemiologist"
   company = "Robert Koch Institute"
@@ -35,6 +36,7 @@ Project coordinator & epidemiologist: syndromic surveillance using emergency dep
   location = "Berlin, Germany"
   date_start = "2018-09-11"
   date_end = "2020-09-10"
+  description = """
 Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
 """
 
@@ -45,7 +47,8 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
 #  location = ""
   date_start = "2018-09-11"
   date_end = "2020-09-10"
-  description = """EU-track fellow, field epidemiology path.
+  description = """
+  EU-track fellow, field epidemiology path.
   
   EPIET: European Programme for Intervention Epidemiology Training.
 """
