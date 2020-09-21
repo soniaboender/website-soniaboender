@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Epidemiologist & Research Associate"
   company = "Robert Koch Institute"
-  company_url = ""
+  company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/div32_node.html"
   location = "Berlin, Germany"
   date_start = "2020-09-11"
   date_end = ""
