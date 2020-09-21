@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Field Epidemiologist & Research Associate"
+  title = "Project Coordinator & Epidemiologist"
   company = "Robert Koch Institute"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/div32_node.html"
   location = "Berlin, Germany"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Department of Infectious Disease Epidemiology, Surveillance Unit.
   
-Project coordinator & epidemiologist: syndromic surveillance using emergency department data [ESEG](https://www.rki.de/EN/Content/infections/epidemiology/ESEG/ESEG_node.html) & routine health data in real-time [SUMO](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/sumo/sumo.html?nn=2387590).
+Syndromic surveillance using emergency department data [ESEG](https://www.rki.de/EN/Content/infections/epidemiology/ESEG/ESEG_node.html) & routine health data in real-time [SUMO](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/sumo/sumo.html?nn=2387590).
 """
 
 [[experience]]
