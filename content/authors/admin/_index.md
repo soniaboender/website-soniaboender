@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Epidemiologist & Public Health Researcher (EPIET Fellow) 
+role: Health Scientist & Field Epidemiologist
 
 # Organizations/Affiliations
 organizations:

@@ -26,16 +26,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Department of Infectious Disease Epidemiology. 
 
-Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
+Sept. 2020 - Current position: Project coordinatord & epidemiology, syndromic surveillance using emergency depratment data
+Sept. 2018- Sept. 2020: Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowship Programme.
 """
 
 [[experience]]
-  title = "EPIET Fellow"
+  title = "Field-Epidemiology Fellow (EPIET)"
   company = "European Centre for Disease Prevention and Control"
   company_url = "https://ecdc.europa.eu/en/epiet-euphem/about"
 #  location = ""
   date_start = "2018-09-11"
-  date_end = ""
+  date_end = "2020-09-10"
   description = """EU-track fellow, field epidemiology path.
   
   EPIET: European Programme for Intervention Epidemiology Training.
