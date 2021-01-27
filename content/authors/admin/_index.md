@@ -15,7 +15,7 @@ role: Health Scientist & Field Epidemiologist
 # Organizations/Affiliations
 organizations:
 - name: Robert Koch Institute
-  url: "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Epidemiology_Training_Programme.html"
+  url: "https://www.rki.de/EN/"
 #- name: European Centre for Disease Prevention and Control
 #  url: "https://ecdc.europa.eu/en/epiet-euphem"
 
