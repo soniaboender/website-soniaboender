@@ -66,9 +66,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4418-3713
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/T_Sonia_Boender
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/T_Sonia_Boender
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1225943/tamara-sonia-boender
