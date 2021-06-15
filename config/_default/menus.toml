@@ -32,12 +32,12 @@
  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "files/CV_Boender_online_May2021.pdf"
+    url = "files/CV_Boender_online_June2021.pdf"
     weight = 60
 
  [[main]]
     name = "Publications & Presentations"
-    url = "files/Communications_Boender_may2021.pdf"
+    url = "files/Communications_Boender_June2021.pdf"
     weight = 70
 
 
