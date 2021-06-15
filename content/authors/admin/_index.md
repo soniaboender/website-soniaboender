@@ -30,6 +30,7 @@ interests:
 - Health data science
 - Qualitative and mixed-methods research
 - Science communication
+- Infodemic management
 
 education:
  courses:
