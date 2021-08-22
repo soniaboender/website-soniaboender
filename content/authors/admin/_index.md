@@ -26,10 +26,7 @@ interests:
 - Monitoring and surveillance
 - Outbreak investigation
 - HIV, hepatitis C, SARS-CoV-2/COVID-19
-- Observational cohort studies
-- Health data science
-- Qualitative and mixed-methods research
-- Science communication
+- Science communication #SoMe4epi
 - Infodemic management
 
 education:
@@ -95,4 +92,4 @@ The interplay between health and society fascinates me, which brought me to heal
 
 A large part of my research experience focussed on HIV cohort studies in sub-Saharan Africa and the Netherlands. Subsequently, I have broadened my scope to other (viral) infectious diseases and outbreak investigation, including hepatitis C, HPV, measles, and SARS-CoV-2/COVID-19. 
 
-Furthermore, I enjoy science communication, teaching and student supervision. 
+Furthermore, I enjoy science communication, teaching and student supervision. I recently completed the WHO infodemic manager training and advocate for a better emoji for vaccination #VaccineEmoji.  
