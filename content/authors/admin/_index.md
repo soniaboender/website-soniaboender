@@ -23,9 +23,11 @@ organizations:
 bio: My research interests include public health research and Infectious disease epidemiology. 
 
 interests:
+- Applied infectious disease epidemiology
+- HIV, hepatitis C, SARS-CoV-2/COVID-19
 - Monitoring and surveillance
 - Outbreak investigation
-- HIV, hepatitis C, SARS-CoV-2/COVID-19
+- Public health research
 - Science communication #SoMe4epi
 - Infodemic management
 
@@ -88,6 +90,5 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-The interplay between health and society fascinates me, which brought me to health sciences and international public health. Analysing large observational data sets makes my heart beat faster, as well as studying the epidemiological techniques and research methodology itself. Never without questioning the clinical relevance and social context of these studies. 
+I am a health scientist and field epidemiologist, specialized in infectious diseases and public/global health on national and international level (including ECDC, WHO). I have nine years of work experience with infectious disease monitoring and surveillance, in both resource-rich and resource-limited settings (Europe, sub-Saharan Africa and the Pacific). Furthermore, I advocate for science communication (social media for public health #SoMe4epi, #VaccineEmoji 💪🩹) and infodemic management.
 
-A large part of my research experience focussed on HIV cohort studies in sub-Saharan Africa and the Netherlands. Subsequently, I have broadened my scope to other (viral) infectious diseases and outbreak investigation, including hepatitis C, HPV, measles, and SARS-CoV-2/COVID-19. I have over eight years of work experience in both resource-rich and resource-limited settings, on national and international level. Furthermore, I enjoy science communication, teaching and student supervision.   
