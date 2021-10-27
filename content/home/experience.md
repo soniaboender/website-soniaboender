@@ -28,8 +28,11 @@ date_format = "Jan 2006"
   Department of Infectious Disease Epidemiology, Surveillance Unit.
 
 Main projects:
+
 - Establishing a syndromic surveillance system using routine emergency department data 
+
 - Investigating the impact of the COVID-19 pandemic and associated non-pharmaceutical interventions on other notifiable infectious diseases
+
 - Supporting the COVID-19 outbreak response  
 """
 
