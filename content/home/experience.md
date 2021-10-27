@@ -26,10 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Department of Infectious Disease Epidemiology, Surveillance Unit.
-  
-Syndromic surveillance using emergency department data [ESEG](https://www.rki.de/EN/Content/infections/epidemiology/ESEG/ESEG_node.html) & routine health data in real-time [SUMO](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/InfDiseaseEpidem/Div32/sumo/sumo.html?nn=2387590).
 
-COVID-19 pandemic response in Germany
+Main projects:
+- Establishing a syndromic surveillance system using routine emergency department data 
+- Investigating the impact of the COVID-19 pandemic and associated non-pharmaceutical interventions on other notifiable infectious diseases
+- Supporting the COVID-19 outbreak response  
 """
 
 [[experience]]
