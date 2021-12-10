@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Sonia Boender
+name: Dr Sonia Boender
 
 # Username (this should match the folder name)
 authors:

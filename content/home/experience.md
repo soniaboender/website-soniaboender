@@ -81,9 +81,9 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
   date_end = "2016-01-31"
   description = """Monitoring HIV drug resistance in adults and children in sub-Saharan Africa. 
 
-Project manager of the [PASER (PharmAccess/Pan African Studies to Evaluate Resistance)](https://www.aighd.org/project/paser/) and [MARCH (Monitoring Antiretroviral Resistance in Children)](https://www.aighd.org/project/march/) cohort studies. 
+- Project manager of the [PASER (PharmAccess/Pan African Studies to Evaluate Resistance)](https://www.aighd.org/project/paser/) and [MARCH (Monitoring Antiretroviral Resistance in Children)](https://www.aighd.org/project/march/) cohort studies. 
 
-Expert consultant for [WHO HIVResNet](https://www.who.int/hiv/topics/drugresistance/hivresnet/en/) - a global network advising the World Health Organisation on the control and surveillance of HIV drug resistance. 
+- Expert consultant for [WHO HIVResNet](https://www.who.int/hiv/topics/drugresistance/hivresnet/en/) - a global network advising the World Health Organisation on the control and surveillance of HIV drug resistance. 
 """
 
 [[experience]]
