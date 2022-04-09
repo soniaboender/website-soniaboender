@@ -20,16 +20,15 @@ organizations:
 #  url: "https://ecdc.europa.eu/en/epiet-euphem"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public health research and Infectious disease epidemiology. 
+bio: My research interests include public health research and infectious disease epidemiology. 
 
 interests:
-- Applied infectious disease epidemiology
-- COVID-19, HIV
-- Monitoring and surveillance
-- Outbreak investigation
+- Epidemics & infodemics
+- Infectious disease epidemiology
 - Public health research
-- Science communication #SoMe4epi
-- Infodemic management
+- Monitoring and surveillance
+- (Online) Science communication #SoMe4epi
+- COVID-19, HIV
 
 education:
  courses:
@@ -90,5 +89,5 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a health scientist and field epidemiologist, specialized in infectious diseases and public/global health on national and international level (including ECDC, WHO). I have nine years of work experience with infectious disease monitoring and surveillance, in both resource-rich and resource-limited settings (Europe, sub-Saharan Africa and the Pacific). Furthermore, I advocate for science communication (social media for public health #SoMe4epi, #VaccineEmoji 💪🩹) and infodemic management.
+I am a health scientist and field epidemiologist, with a current focus on infodemic management. I have ten years of work experience with infectious disease monitoring and surveillance, in both resource-rich and resource-limited settings (Europe, sub-Saharan Africa and the Pacific). Furthermore, I advocate for (online) science communication for public health (#SoMe4epi).
 
