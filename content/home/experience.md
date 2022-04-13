@@ -115,7 +115,7 @@ Fellow of the European Centre for Disease Prevention and Control (ECDC) Fellowsh
   date_start = "2012-04-01"
   date_end = "2013-02-13"
   description = """
-  Lecturer at the Section Infectious Diseases (Apr 2012 – Mar 2013) and the Section Methodology and Applied Biostatistics (Sep 2012 – Feb 2013).
+  Lecturer at the Section Infectious Diseases and the Section Methodology & Applied Biostatistics.
 """
 
 +++
