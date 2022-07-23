@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Health Scientist & Field Epidemiologist 
-Infodemic Manager
+role: Health Scientist & Field Epidemiologist | Infodemic Manager
 
 # Organizations/Affiliations
 organizations:
