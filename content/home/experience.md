@@ -29,9 +29,13 @@ date_format = "Jan 2006"
 
 Main projects:
 
-- Implementing infodemic management, with a focus on social listening 
+- Establishing infodemic management, with a focus on social listening and integrated insights analysis
 
-- Weekly involvement in RKIs social media communications on Twitter ([@rki_de](https://twitter.com/rki_de)) and Instagram ([@rki_fuer_euch](https://www.instagram.com/rki_fuer_euch/))
+- Supporting the monkeypox outbreak response in Germany
+
+- Digital/online science communication, contributor to RKI’s Social Media Task Force: on Twitter ([@rki_de](https://twitter.com/rki_de)), Instagram ([@rki_fuer_euch](https://www.instagram.com/rki_fuer_euch/)) and [LinkedIn](https://www.linkedin.com/company/robertkochinstitut/)
+
+- WHO working group member to provide expertise to the WHO project on evidence gap mapping on infodemic management interventions
 
 - Involved in field epidemiology training: ECDC EPIET fellow supervision and training
 """
