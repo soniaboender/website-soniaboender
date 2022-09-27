@@ -35,6 +35,8 @@ Main projects:
 
 - Digital/online science communication, contributor to RKI’s Social Media Task Force: on Twitter ([@rki_de](https://twitter.com/rki_de)), Instagram ([@rki_fuer_euch](https://www.instagram.com/rki_fuer_euch/)) and [LinkedIn](https://www.linkedin.com/company/robertkochinstitut/)
 
+- PhD co-supervisor of the project [‘Social listening – Using social media to address public health issues’](https://www.rki.de/DE/Content/Institut/OrgEinheiten/ZKI-PH/ZKI-PH_PhD2022_02.html), in collaboration with RKI's Centre for Artificial Intelligence in Public Health Research
+
 - WHO working group member to provide expertise to the WHO project on evidence gap mapping on infodemic management interventions
 
 - Involved in field epidemiology training: ECDC EPIET fellow supervision and training
