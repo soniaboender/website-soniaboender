@@ -27,8 +27,8 @@ interests:
 - Infectious disease epidemiology
 - Public health research
 - Monitoring and surveillance
-- (Online) Science communication #SoMe4epi
-- COVID-19, HIV
+- Science & risk communication 
+- HIV, STIs, COVID-19
 
 education:
  courses:
@@ -89,5 +89,5 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a health scientist and field epidemiologist, with a current focus on infodemic management. I have ten years of work experience with infectious disease monitoring and surveillance, in both resource-rich and resource-limited settings (Europe, sub-Saharan Africa and the Pacific). Furthermore, I advocate for (online) science communication for public health (#SoMe4epi).
+I am a health scientist and field epidemiologist, with a current focus on risk communication and infodemic management. I have ten years of work experience with infectious disease monitoring and surveillance, in both resource-rich and resource-limited settings (Europe, sub-Saharan Africa and the Pacific). Furthermore, I advocate for (online) science communication for public health (#SoMe4epi).
 
