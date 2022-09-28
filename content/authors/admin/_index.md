@@ -89,5 +89,5 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a health scientist and field epidemiologist, with a current focus on risk communication and infodemic management. I have ten years of work experience with infectious disease monitoring and surveillance, in Europe, sub-Saharan Africa and the Pacific. Furthermore, I advocate for (online) science communication for public health.
+I am a health scientist and field epidemiologist, with a current focus on risk communication and infodemic management. I have ten years of work experience with infectious disease monitoring and surveillance in Europe, sub-Saharan Africa and the Pacific.
 
