@@ -29,7 +29,6 @@ interests:
 - Monitoring and surveillance
 - Science & risk communication 
 - HIV, STIs, COVID-19
-- #SoMe4pie #VaccineEmoji
 
 education:
  courses:
