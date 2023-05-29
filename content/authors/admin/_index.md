@@ -65,7 +65,7 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4418-3713
- - icon: mastodon
+- icon: mastodon
   icon_pack: ai
   link: https://mastodon.nl/@SoniaBoender
 # - icon: researchgate
