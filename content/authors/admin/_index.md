@@ -10,13 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Health Scientist & Field Epidemiologist | Infodemic Manager
+role: Health Scientist & Field Epidemiologist 
 
 # Organizations/Affiliations
 organizations:
 - name: Public Health Service Amsterdam
-  url: "https://openresearch.amsterdam/en/page/96486/infectieziekten"
   url: "https://amsterdam.nl/ggd-english/"
+- name: openresearch.amsterdam
+  url: "https://openresearch.amsterdam/en/page/96486/infectieziekten"
 #- name: European Centre for Disease Prevention and Control
 #  url: "https://ecdc.europa.eu/en/epiet-euphem"
 
@@ -82,7 +83,7 @@ social:
 #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sboender@ggd.amsterdam.nl"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
