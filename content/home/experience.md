@@ -28,12 +28,12 @@ date_format = "Jan 2006"
   Department of Infectious Diseases Research and Prevention
 
 - Senior researcher, working on the themes: 
-sexual health and STIs among men who have sex with men (through the Amsterdam Cohort Studies
+sexual health and STIs among men who have sex with men (through the Amsterdam Cohort Studies;
 [ACS](https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/meedoen-amsterdam-cohort-studies/)), pandemic preparedness, science communication & infodemic management
 
 - Co-leading a team of 25 researchers, data managers and study nurses
 
-- PhD and MSc studnet supervision
+- PhD and MSc student supervision
 """
 
 [[experience]]
