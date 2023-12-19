@@ -14,13 +14,14 @@ role: Health Scientist & Field Epidemiologist | Infodemic Manager
 
 # Organizations/Affiliations
 organizations:
-- name: Robert Koch Institute
-  url: "https://www.rki.de/EN/"
+- name: Public Health Service Amsterdam
+  url: "https://openresearch.amsterdam/en/page/96486/infectieziekten"
+  url: "https://amsterdam.nl/ggd-english/"
 #- name: European Centre for Disease Prevention and Control
 #  url: "https://ecdc.europa.eu/en/epiet-euphem"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public health research and infectious disease epidemiology. 
+bio: Public Health Research & Infectious Disease Epidemiology. 
 
 interests:
 - Epidemics & infodemics
@@ -89,5 +90,5 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I am a health scientist and field epidemiologist, with a current focus on risk communication and infodemic management. I have ten years of work experience with infectious disease monitoring and surveillance in Europe, sub-Saharan Africa and the Pacific.
+I am a health scientist and field epidemiologist, with a current focus on risk communication and infodemic management. I have over ten years of work experience with infectious disease monitoring and surveillance in Europe, sub-Saharan Africa and the Pacific.
 
