@@ -18,12 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Researcher & Team Lead"
+  company = "Public Health Service (GGD) Amsterdam"
+  company_url = "https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/"
+  location = "Amsterdam, the Netherlands"
+  date_start = "2023-05-31"
+  date_end = ""
+  description = """
+  Department of Infectious Diseases Research and Prevention
+
+- Senior researcher, working on the themes: 
+sexual health and STIs among men who have sex with men (through the Amsterdam Cohort Studies
+[ACS](https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/meedoen-amsterdam-cohort-studies/)), pandemic preparedness, science communication & infodemic management
+
+- Co-leading a team of 25 researchers, data managers and study nurses
+
+- PhD and MSc studnet supervision
+"""
+
+[[experience]]
   title = "Research Associate, Infodemic Manager"
   company = "Robert Koch Institute"
   company_url = "https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ProjectGroups/P1/P1_node.html"
   location = "Berlin, Germany"
   date_start = "2022-04-15"
-  date_end = ""
+  date_end = "2023-05-31"
   description = """
   Project Group for Risk Communication
 
