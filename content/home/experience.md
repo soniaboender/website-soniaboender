@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Visiting Fellow"
+  company = "Vrije Universiteit (VU) Amsterdam"
+  company_url = "https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/"
+  location = "Amsterdam, the Netherlands"
+  date_start = "2024-02-01"
+  date_end = ""
+  description = """
+  Health Sciences
+"""
+
+[[experience]]
   title = "Senior Researcher & Team Lead"
   company = "Public Health Service (GGD) Amsterdam"
   company_url = "https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/"

@@ -16,8 +16,8 @@ role: Health Scientist & Field Epidemiologist
 organizations:
 - name: Public Health Service Amsterdam
   url: "https://amsterdam.nl/ggd-english/"
-- name: Vrije Universiteit Amsterdam - Health Sciences, Infectious Diseases
-  url: "https://research.vu.nl/en/organisations/infectious-diseases-2" 
+- name: Vrije Universiteit Amsterdam - Health Sciences
+  url: "https://research.vu.nl/en/persons/sonia-boender" 
 - name: openresearch.amsterdam
   url: "https://openresearch.amsterdam/en/page/96486/infectieziekten"
 #- name: European Centre for Disease Prevention and Control
