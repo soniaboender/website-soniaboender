@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Visiting Fellow"
   company = "Vrije Universiteit (VU) Amsterdam"
-  company_url = "https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/"
+  company_url = "https://research.vu.nl/en/persons/sonia-boender"
   location = "Amsterdam, the Netherlands"
   date_start = "2024-02-01"
   date_end = ""
