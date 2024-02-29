@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2024-02-01"
   date_end = ""
   description = """
-  Health Sciences, Infectious Diseases
+  Health Sciences - Infectious Diseases
 """
 
 [[experience]]
