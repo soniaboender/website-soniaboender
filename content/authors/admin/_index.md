@@ -93,5 +93,5 @@ email: "sboender@ggd.amsterdam.nl"
 #- Researchers
 #- Visitors
 ---
-I am a health scientist and field epidemiologist. My current mission is bridging infectious disease epidemiology and health communication (infodemiology). I have over ten years of work experience with infectious disease monitoring and surveillance in Europe, sub-Saharan Africa and the Pacific.
+I am a health scientist and field epidemiologist. I have over ten years of work experience with infectious disease monitoring and surveillance in Europe, sub-Saharan Africa and the Pacific. My current mission is to bridge infectious disease epidemiology and health information and communication (infodemiology). 
 
