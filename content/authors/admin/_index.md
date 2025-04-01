@@ -18,6 +18,8 @@ organizations:
   url: "https://amsterdam.nl/ggd-english/"
 - name: Vrije Universiteit Amsterdam
   url: "https://research.vu.nl/en/persons/sonia-boender" 
+  - name: Amsterdam UMC
+  url: "" 
 - name: openresearch.amsterdam
   url: "https://openresearch.amsterdam/en/page/96486/infectieziekten"
 #- name: European Centre for Disease Prevention and Control

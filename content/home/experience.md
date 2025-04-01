@@ -38,7 +38,7 @@ pandemic preparedness, infodemic management, applied infectious disease epidemio
 [[experience]]
   title = "Research Fellow"
   company = "Amsterdam University Medical Centre (AUMC)"
-  company_url = "https://research.vu.nl/en/persons/sonia-boender"
+  company_url = ""
   location = "Amsterdam, the Netherlands"
   date_start = "2024-06-01"
   date_end = ""
