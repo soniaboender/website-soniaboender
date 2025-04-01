@@ -18,17 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Visiting Fellow"
-  company = "Vrije Universiteit (VU) Amsterdam"
-  company_url = "https://research.vu.nl/en/persons/sonia-boender"
-  location = "Amsterdam, the Netherlands"
-  date_start = "2024-02-01"
-  date_end = ""
-  description = """
-  Health Sciences - Infectious Diseases
-"""
-
-[[experience]]
   title = "Senior Researcher & Team Lead"
   company = "Public Health Service (GGD) Amsterdam"
   company_url = "https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/"
@@ -39,12 +28,38 @@ date_format = "Jan 2006"
   Department of Infectious Diseases Research and Prevention
 
 - Senior researcher, working on the themes: 
-sexual health and STIs among men who have sex with men (through the Amsterdam Cohort Studies;
-[ACS](https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/meedoen-amsterdam-cohort-studies/)), pandemic preparedness, science communication & infodemic management
+pandemic preparedness, infodemic management, applied infectious disease epidemiology, sexual health and STIs among men who have sex with men (through the Amsterdam Cohort Studies; [ACS](https://www.ggd.amsterdam.nl/onderzoek/onderzoek-infectieziekten/doe-mee-amsterdam-cohort-studies/amsterdamse-cohort-studies/))
 
 - Co-leading a team of 25 researchers, data managers and study nurses
 
 - PhD and MSc student supervision
+"""
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Amsterdam University Medical Centre (AUMC)"
+  company_url = "https://research.vu.nl/en/persons/sonia-boender"
+  location = "Amsterdam, the Netherlands"
+  date_start = "2024-06-01"
+  date_end = ""
+  description = """
+  Department of Internal Medicine, Division of Infectious Diseases 
+  - Amsterdam Public Health Research Institute Amsterdam (APH)
+  - Amsterdam Institute for Immunology and Infectious Diseases (AII)
+"""
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Vrije Universiteit (VU) Amsterdam"
+  company_url = "https://research.vu.nl/en/persons/sonia-boender"
+  location = "Amsterdam, the Netherlands"
+  date_start = "2024-02-01"
+  date_end = ""
+  description = """
+  Health Sciences - Infectious Diseases
+  
+  - Amsterdam Public Health Research Institute Amsterdam (APH)
+  - Amsterdam Institute for Immunology and Infectious Diseases (AII)
 """
 
 [[experience]]
